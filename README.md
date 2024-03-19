@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,devto,docker,gcp,java,git,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,devto,docker,tensorflow,ai,gcp,java,git,html,css" />
   </a>
 </p>
