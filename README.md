@@ -5,7 +5,8 @@
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning Deep Learning and Natural Language Processing
 - I’m looking to collaborate on Artificial Intelligence 
-- 📫 How to reach me choutapallyabhinay@gmail.com
+- 📫 How to reach me **<a href="choutapallyabhinay@gmail.com">Email</a>**
+- - 🧑 More of me at my **[Portfolio Website](https://chabhinay.github.io/)**
   
 
 <!---
